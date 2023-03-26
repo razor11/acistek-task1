@@ -36,7 +36,7 @@ $(document).ready(function () {
 $(document).ready(function (){
     setTimeout(() => {
         $('#example').DataTable();
-      }, "10");
+      }, "2000");
 
       document.getElementById('htmlTab').innerHTML += `
     &lt;table id=&quot;example&quot; class=&quot;display&quot; style=&quot;width:100%&quot;&gt;
